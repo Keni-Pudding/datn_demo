@@ -1,0 +1,12 @@
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\bin\Debug\net6.0\DATN_Demo.Shared.deps.json
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\bin\Debug\net6.0\DATN_Demo.Shared.dll
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\bin\Debug\net6.0\DATN_Demo.Shared.pdb
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.csproj.AssemblyReference.cache
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.AssemblyInfoInputs.cache
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.AssemblyInfo.cs
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.dll
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\refint\DATN_Demo.Shared.dll
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\DATN_Demo.Shared.pdb
+C:\Users\Code Toi Sang\Source\Repos\DATN_Demo\DATN_Demo.Shared\obj\Debug\net6.0\ref\DATN_Demo.Shared.dll
